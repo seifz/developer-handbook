@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # List of Golden Rules
 
 ## 1. **KISS:**

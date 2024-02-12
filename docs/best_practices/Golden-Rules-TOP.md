@@ -1,6 +1,8 @@
+---
+sidebar_position: 2
+---
+
 # Golden Rules: TOP 10
-
-
 
 1. Follow the **PascalCase naming convention** (example: TotalAverageAmount) for API names and avoid special characters in API names as well as Page Layout names.
     1. Naming convention for Flows (TypeFlow_Object_Number_Description).
